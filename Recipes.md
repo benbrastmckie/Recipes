@@ -4,27 +4,56 @@ A list of vegan recipes, organised according to difficulty, including lists of i
 
 ## No Stakes
 
+A quick meal for one or two.
+
 - Pesto pasta
 - Glorified instant noodles
-- Sweet Potatoes and salad
+- Sweet potatoes and salad
 -
 
 ## Low Stakes
 
+A basic but satisfying meal for two or more.
+
+### Rice
+
 - Black beans and plantains
 - Daal and rice
 - Chilli and rice
+- Stir fried aubergine and rice
+- Sitr fried broccoli and shitake and rice
+- Channa masala
+- Thai curry and rice
+
+### Pasta
+
 - Aubergine penne
-- Stirfry
+- Spaghetti marinara
+
+### Soups
+
 - Carrot ginger soup
 - Butternut squash soup
 - French lentil soup
-- Baked leeks
--
+- Miso soup
+- Tom yum soup
 
-## Medium States
+## Medium Stakes
+
+A substantial meal to host guests.
+
+### Mains
 
 - Lebanese Moussaka
 - Biang Biang Mian
-- Moroccan Cauliflower
+- Homemade pizza
+- Aloo Pallak
+- Baingan Bharta
+- Veg Jalfrezi
 -
+
+### Sides
+
+- Baked leeks
+- Moroccan Cauliflower
+- Salad
