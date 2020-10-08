@@ -4,7 +4,7 @@ A list of vegan recipes, organised according to difficulty, including lists of i
 
 ## No Stakes
 
-- Pesto Pasta
+- Pesto pasta
 - Glorified instant noodles
 - Sweet Potatoes and salad
 -
@@ -14,7 +14,12 @@ A list of vegan recipes, organised according to difficulty, including lists of i
 - Black beans and plantains
 - Daal and rice
 - Chilli and rice
-- Aubergine Penne
+- Aubergine penne
+- Stirfry
+- Carrot ginger soup
+- Butternut squash soup
+- French lentil soup
+- Baked leeks
 -
 
 ## Medium States
