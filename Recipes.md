@@ -24,6 +24,16 @@ A basic but satisfying meal for two or more.
 - Sitr fried broccoli and shitake and rice
 - Channa masala
 - Thai curry and rice
+- Tacos
+  - black beans
+  - chopped onion
+  - avocado
+  - rice
+  - tomatoes
+  - fresh coriander
+  - salsa
+  - corn
+  - peppers
 
 ### Pasta
 
