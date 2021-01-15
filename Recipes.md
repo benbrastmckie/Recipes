@@ -15,7 +15,7 @@ A quick meal for one or two.
 
 A basic but satisfying meal for two or more.
 
-### Rice
+### Rice/Quinoa/Bulgar
 
 - Black beans and plantains
 - Daal and rice
@@ -34,6 +34,24 @@ A basic but satisfying meal for two or more.
   - salsa
   - corn
   - peppers
+
+### Mediterranean
+
+- Tabouli
+  - Bulgar or quinoa
+  - Celery 
+  - Tomatoes
+  - Cucumber
+  - Chickpeas
+  - Lemons
+- Baba Ganoush
+  - Aubergine
+  - Onion
+  - Garlic
+  - Tahini
+- Hummus
+- Baked cauliflower
+- Pan peppers
 
 ### Pasta
 
